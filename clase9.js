@@ -4,6 +4,4 @@ var felipe = {
     nombre:'Felipe'
 }
 
-var yolo = {
-    nombre:'Yolo'
-}
+var otraPersona = felipe;
